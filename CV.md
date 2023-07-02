@@ -20,10 +20,10 @@ I studied to be a computer science teacher, worked as a system administrator for
 
 ## Courses
 
-junior QA - software-testing.ru;
-RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* junior QA - software-testing.ru;
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ## Languages
 
-Russian - Native
-English - Pre-Intermediate
+* Russian - Native
+* English - Pre-Intermediate
